@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/V-T-Soorea/ArreTest-WhatsappMessage#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "arretest-whatsappmessage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-T-Soorea/ArreTest-WhatsappMessage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-T-Soorea/ArreTest-WhatsappMessage/issues"
+  },
+  "homepage": "https://github.com/V-T-Soorea/ArreTest-WhatsappMessage#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
